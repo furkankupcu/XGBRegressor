@@ -1,5 +1,5 @@
 # XGBRegressor
 
-#Futbolcu maaşı tahmini
+Futbolcu maaşı tahmini
 
 -Öğrenme projesi

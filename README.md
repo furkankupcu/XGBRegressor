@@ -1,4 +1,3 @@
-# XGB_Regressor
 
 Futbolcu maaşı tahmini
 

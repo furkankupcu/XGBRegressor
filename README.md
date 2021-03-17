@@ -1,6 +1,5 @@
 
-Futbolcu maaşı tahmini
+Futbolcu Maaş Tahmini
 
--Öğrenme projesi
 
-Mevki ve istenen özelliklere göre daha iyi tahminler yapılabilir.
+Mustafa Vahit Keskin Python ile Makine Öğrenmesi kursundan öğrendiğim bilgileri,SoFifa.com verisetini kullanarak uygulamaya çalıştım.
